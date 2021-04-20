@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
-
-//Personal website: https://shweta200126.github.io/
-
 <h2 align="center">Hey, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3>:school: Currently First Year Student at Netaji Subhas University of Technology, Delhi<br>:computer: Geoinformatics Stream<br>:smile: Coding Enthusiast<br>:smile: Loves to do attend hackathons<br>🌱 I’m currently learning UI/UX from Zuri Training and APIs from Youtube.</h3>
+<h3>:school: Currently First year student at Netaji Subhas University of Technology, Delhi<br>:computer: Geoinformatics Stream<br>:smile: Coding Enthusiast<br>:smile: Loves to do attend hackathons<br>🌱 I’m currently learning UI/UX from Zuri Training and APIs from Youtube.</h3>
 
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
@@ -38,6 +35,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.facebook.com/shweta.ranjananand/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
- </a>
- Personal website: https://shweta200126.github.io/
-</p> 
+</a>
+</p>
+Personal website: https://shweta200126.github.io/
