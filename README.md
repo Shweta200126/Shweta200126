@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 </p>
-<p align=center><h3>Personal website: https://shweta200126.github.io/</p>
+<p align=center><h3>Personal website: https://shweta200126.github.io/</h3></p>
