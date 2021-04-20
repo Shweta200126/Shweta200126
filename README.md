@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- Hi there 👋-->
 
 <!--
 **Shweta200126/Shweta200126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Personal website: https://shweta200126.github.io/
+//Personal website: https://shweta200126.github.io/
 
- <h2 align="center">Hey, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hey, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <h3>:school: Currently First Year Student at Netaji Subhas University of Technology, Delhi<br>:computer: Geoinformatics Stream<br>:smile: Coding Enthusiast<br>:smile: Loves to do attend hackathons<br>🌱 I’m currently learning UI/UX from Zuri Training and APIs from Youtube.</h3>
 
@@ -38,4 +38,6 @@ Personal website: https://shweta200126.github.io/
 </a>
 <a href="https://www.facebook.com/shweta.ranjananand/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+ </a>
+ Personal website: https://shweta200126.github.io/
 </p> 
