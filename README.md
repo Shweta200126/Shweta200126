@@ -42,5 +42,11 @@ Here are some ideas to get you started:
  
  -->
  <!--START_SECTION:activity-->
+1. 💪 Opened PR [#117](https://github.com/mgreiler/se-unlocked/pull/117) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+2. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+3. 🗣 Commented on [#143](https://github.com/appwrite/awesome-appwrite/issues/143) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+4. 🗣 Commented on [#143](https://github.com/appwrite/awesome-appwrite/issues/143) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+5. 🗣 Commented on [#143](https://github.com/appwrite/awesome-appwrite/issues/143) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+<!--END_SECTION:activity-->
 
 
