@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
+
+<!--END_SECTION:activity-->
+
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
