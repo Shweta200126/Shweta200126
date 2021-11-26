@@ -50,3 +50,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
+
+#### 🗓 My GitHub Card
+<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shweta200126&theme=graywhite&show_icons=true&include_all_commits=true" />
+
