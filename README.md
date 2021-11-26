@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 
 <h3>:school: Currently second year student at Netaji Subhas University of Technology, Delhi.<br>:computer: Geoinformatics stream.<br>:smile: Coding enthusiast.<br>:smile: Loves to do attend hackathons.<br>🌱 I’m currently learning UI/UX from Zuri Training and APIs from Youtube.</h3>
 
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
-
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
@@ -44,3 +39,8 @@ Here are some ideas to get you started:
 </p>
 <h3>
 <p align=center>Personal website: https://shweta200126.github.io/</p>
+ 
+ 
+ <!--START_SECTION:activity-->
+
+
