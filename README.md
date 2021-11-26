@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
--->
+
 <h2 align="center">Hey, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <h3>:school: Currently second year student at Netaji Subhas University of Technology, Delhi.<br>:computer: Geoinformatics stream.<br>:smile: Coding enthusiast.<br>:smile: Loves to do attend hackathons.<br>🌱 I’m currently learning UI/UX from Zuri Training and APIs from Youtube.</h3>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3>
 <p align=center>Personal website: https://shweta200126.github.io/</p>
  
- 
+ -->
  <!--START_SECTION:activity-->
 
 
