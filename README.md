@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 
 #### 🗓 My GitHub Card
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shweta200126&theme=graywhite&show_icons=true&include_all_commits=true" />
+<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shweta200126&theme=bluewhite&show_icons=true&include_all_commits=true" />
 
