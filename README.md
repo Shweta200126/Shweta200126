@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <p align=center>Personal website: https://shweta200126.github.io/</p>
  
  -->
+ ### :zap: Recent Activity
  <!--START_SECTION:activity-->
 1. 💪 Opened PR [#117](https://github.com/mgreiler/se-unlocked/pull/117) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
 2. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
