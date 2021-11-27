@@ -44,9 +44,7 @@ Here are some ideas to get you started:
  <img alt="Shweta R. Anand | Gmail" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg" width=40 height=30 />
 </a>
 </p>
-<h3>
-<p align=center>Personal website: https://shweta200126.github.io/</p>
- 
+
  ### :zap: Recent Activity
  <!--START_SECTION:activity-->
 1. 💪 Opened PR [#128](https://github.com/mgreiler/se-unlocked/pull/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
