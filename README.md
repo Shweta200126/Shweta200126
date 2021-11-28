@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shweta200126&theme=bluewhite&show_icons=true&include_all_commits=true" />
 <br>
-
+<img src="https://github-readme-stats.vercel.app/api?username=shweta200126&show_icons=true&theme=default&bg_color=ffffff00" height=200>
 <hr></hr>
 
 ### :zap: Recent Activity
