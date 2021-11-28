@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hey there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <h3>
  🎓 Geoinformatics sophomore student at Netaji Subhas University of Technology.
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 #### 🗓 My GitHub Card
 <br>
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shweta200126&theme=bluewhite&show_icons=true&include_all_commits=true" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=shweta200126&show_icons=true&theme=default&bg_color=ffffff00" height=200>
+<img src="https://github-readme-stats.vercel.app/api?username=shweta200126&show_icons=true&theme=default&bg_color=ffffff00&include_all_commits=true" height=200>
 <hr></hr>
 
 ### :zap: Recent Activity
