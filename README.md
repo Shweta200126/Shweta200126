@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 <hr></hr>
 
 #### 🗓 My GitHub Card
+<br>
 <img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Shweta200126&theme=bluewhite&show_icons=true&include_all_commits=true" />
-<!--END_SECTION:activity-->
+<br>
+
 <hr></hr>
 
 ### :zap: Recent Activity
