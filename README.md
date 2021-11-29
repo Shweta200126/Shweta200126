@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <hr></hr>
 
 ### :zap: Recent Activity
- <!--START_SECTION:activity-->
-
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <hr></hr>
