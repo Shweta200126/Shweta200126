@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-2. 💪 Opened PR [#128](https://github.com/mgreiler/se-unlocked/pull/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-3. 🗣 Commented on [#119](https://github.com/mgreiler/se-unlocked/issues/119) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-4. 💪 Opened PR [#117](https://github.com/mgreiler/se-unlocked/pull/117) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+2. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+3. 💪 Opened PR [#128](https://github.com/mgreiler/se-unlocked/pull/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+4. 🗣 Commented on [#119](https://github.com/mgreiler/se-unlocked/issues/119) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
 5. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
 <!--END_SECTION:activity-->
 
