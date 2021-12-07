@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img alt="Shweta R. Anand | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=40 height=30/>
 </a>
  &nbsp
-<a href="https://twitter.com/Shweta20011" target="_blank">
+<a href="https://twitter.com/Shweta200126" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shweta R. Anand | Twitter" style="margin-bottom: 5px;" width=40 height=30 />
 </a>
  &nbsp
