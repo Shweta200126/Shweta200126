@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 <hr></hr>
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <hr></hr>
 <h2 align="center">Connect with Me !! 🤝</h2> 
