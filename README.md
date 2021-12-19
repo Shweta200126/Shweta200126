@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
+1. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+2. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+3. 💪 Opened PR [#128](https://github.com/mgreiler/se-unlocked/pull/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+4. 🗣 Commented on [#119](https://github.com/mgreiler/se-unlocked/issues/119) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
+5. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
 -->
 <h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
@@ -33,11 +38,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-2. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-3. 💪 Opened PR [#128](https://github.com/mgreiler/se-unlocked/pull/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-4. 🗣 Commented on [#119](https://github.com/mgreiler/se-unlocked/issues/119) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-5. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+
 <!--END_SECTION:activity-->
 
 <hr></hr>
