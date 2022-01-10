@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3>
  🎓 Geoinformatics sophomore student at Netaji Subhas University of Technology.
  <br>:smile: Coding enthusiast.
- <br> 🗺️ Recent project: https://shweta200126.github.io/Pages/campuses
+ <br> 🗺️ Recent project: https://github.com/Shweta200126/Aerialod
  
 </h3>
 <hr></hr>
