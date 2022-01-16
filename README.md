@@ -53,9 +53,9 @@ No Activity tracked this Week
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
-<a href="https://github.com/Shweta200126" target="_blank">
+<!--<a href="https://github.com/Shweta200126" target="_blank">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/github-icon.svg" alt="Shweta R. Anand | GitHub" style="margin-bottom: 5px;" width=40 height=30 />
-</a>
+</a>-->
  &nbsp
 <a href="https://www.linkedin.com/in/shweta-ranjan-anand-a3246b203/" target="_blank">
 <img alt="Shweta R. Anand | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=40 height=30/>
