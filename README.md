@@ -27,9 +27,10 @@ Here are some ideas to get you started:
  <br>:smile: Coding enthusiast.
  <br>
  <br> 🗺️ Recent project: 
- <li><b>https://github.com/Shweta200126/Aerialod<b>
-  <li>Its a 3-D map project in Aeriold software.<li>
- 
+ <ul>
+ <li><b>https://github.com/Shweta200126/Aerialod</b>
+  <ul><li>Its a 3-D map project in Aeriold software.</u>
+ </ul>
  <hr>
  <img src ="https://user-images.githubusercontent.com/72426535/148821313-f237c456-e1e0-4f1f-9fd6-a2b653a24be2.png" width=2000>
  
