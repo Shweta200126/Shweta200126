@@ -44,18 +44,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=shweta200126&show_icons=true&theme=default&bg_color=ffffff00&text_color=808080&hide_border=true" height=200>
 <hr></hr>
 
-<!--
-
-### :zap: Recent Activity
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--->
 <hr>
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
