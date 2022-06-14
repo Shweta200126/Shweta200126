@@ -1,4 +1,4 @@
-<!-- Hi there 👋-->
+Hi there 👋
 
 <!--
 **Shweta200126/Shweta200126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
