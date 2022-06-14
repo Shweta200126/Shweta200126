@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </a>
  &nbsp
 <a href="mailto:anand26shweta@gmail.com">
- <img alt="Shweta R. Anand | Gmail" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg" width=40 height=30 />
+ <img alt="Shweta R. Anand | Gmail" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg" width=40 height=30 target="_blank" />
 </a>
 </p>
 
