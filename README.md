@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  <br> 🗺️ Recent project: 
  <ul>
  <li><b>https://github.com/Shweta200126/Aerialod</b>
-  <ul><li>Its a 3-D map project in Aeriold software.</u>
-  <li> Portfolio made with React: <b>https://shweta200126.netlify.app/</b>
+  <ul><li>Its a 3-D map project in Aeriold software.</ul>
+ <li> Portfolio made with React: <b>https://shweta200126.netlify.app/</b>
  </ul>
  <hr>
  <img src ="https://user-images.githubusercontent.com/72426535/148821313-f237c456-e1e0-4f1f-9fd6-a2b653a24be2.png" width=2000>
