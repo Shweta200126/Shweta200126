@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 4. 🗣 Commented on [#119](https://github.com/mgreiler/se-unlocked/issues/119) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
 5. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
 -->
-<h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"></h2>
 
 <h3>
  🎓 Geoinformatics sophomore student at Netaji Subhas University of Technology.
