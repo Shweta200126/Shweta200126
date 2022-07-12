@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></h2>
 
 <h3>
- 🎓 Geoinformatics sophomore student at Netaji Subhas University of Technology.
+ 🎓 Geoinformatics rising sophomore student at Netaji Subhas University of Technology.
  <br>
  <br>:smile: Coding enthusiast.
  <br>
