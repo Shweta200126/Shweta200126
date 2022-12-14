@@ -33,10 +33,7 @@ Here are some ideas to get you started:
  <li> Portfolio made with React: <b>https://shweta200126.netlify.app/</b>
  </ul>
  <hr>
- <img src ="https://user-images.githubusercontent.com/72426535/148821313-f237c456-e1e0-4f1f-9fd6-a2b653a24be2.png" width=2000>
- 
-</h3>
-<hr></hr>
+</hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=shweta200126&theme=dracula&bg_color=00000000&color=878787&line=2f80ed&point=808080&area=true&hide_border=true">
 <hr></hr>
 
