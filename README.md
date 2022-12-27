@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </a>
  &nbsp
 <a href="https://twitter.com/Shweta200126" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shweta R. Anand | Twitter" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
+<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="Shweta R. Anand | Twitter" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
 </a>
  &nbsp
 <a href="https://www.facebook.com/shweta.ranjananand/" target="_blank">
