@@ -43,23 +43,19 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Shweta200126" target="_blank">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/github-icon.svg" alt="Shweta R. Anand | GitHub" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Shweta R. Anand | GitHub" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
 </a>
  &nbsp
 <a href="https://www.linkedin.com/in/shweta-ranjan-anand-a3246b203/" target="_blank">
-<img alt="Shweta R. Anand | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=40 height=30 target="_blank" />
+<img alt="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=40 height=30 target="_blank" />
 </a>
  &nbsp
 <a href="https://twitter.com/Shweta200126" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Shweta R. Anand | Twitter" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
 </a>
  &nbsp
-<a href="https://www.facebook.com/shweta.ranjananand/" target="_blank">
-<img alt="Shweta R. Anand | Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width=40 height=30 target="_blank" />
-</a>
- &nbsp
 <a href="mailto:anand26shweta@gmail.com">
- <img alt="Shweta R. Anand | Gmail" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg" width=40 height=30 target="_blank" />
+ <img alt="Shweta R. Anand | Gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width=40 height=30 target="_blank" />
 </a>
 </p>
 
