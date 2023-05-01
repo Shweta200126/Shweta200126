@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </a>
  &nbsp
 <a href="https://www.linkedin.com/in/shweta-ranjan-anand-a3246b203/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Shweta R. Anand | linkedin" width=40 height=30 target="_blank" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Shweta R. Anand | linkedin" height=30 target="_blank" />
 </a>
  &nbsp
 <a href="https://twitter.com/Shweta200126" target="_blank">
