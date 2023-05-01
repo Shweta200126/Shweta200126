@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </a>
  &nbsp
 <a href="https://twitter.com/Shweta200126" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Shweta R. Anand | Twitter" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Shweta R. Anand | Twitter" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
 </a>
  &nbsp
 <a href="mailto:anand26shweta@gmail.com">
