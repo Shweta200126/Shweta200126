@@ -1,45 +1,49 @@
-<!--Hi there 👋-->
-
-<!--
-**Shweta200126/Shweta200126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- -🌱 I’m currently learning UI/UX from Zuri Training and APIs from Youtube.
-- 👯 I’m looking to collaborate on ...
-- 🤔  I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
-1. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-2. 🗣 Commented on [#128](https://github.com/mgreiler/se-unlocked/issues/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-3. 💪 Opened PR [#128](https://github.com/mgreiler/se-unlocked/pull/128) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-4. 🗣 Commented on [#119](https://github.com/mgreiler/se-unlocked/issues/119) in [mgreiler/se-unlocked](https://github.com/mgreiler/se-unlocked)
-5. 💪 Opened PR [#206](https://github.com/appwrite/awesome-appwrite/pull/206) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
--->
 <h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></h2>
 
-<h3>
- 🎓 Junior Undergrad student at Netaji Subhas University of Technology.
- <br>
- <br>:smile: Coding enthusiast.
- <br>
- <br> 🗺️ Recent project: 
- <ul>
- <li><b>https://github.com/Shweta200126/Aerialod</b>
-  <ul><li>Its a 3-D map project in Aeriold software.</ul>
- <li> Portfolio made with React: <b>https://shweta200126.netlify.app/</b>
- </ul>
- <hr>
+### :woman_technologist: About Me:
+I am a Front-end developer and designer who focuses on creating beautiful and functional user experiences.
+ - 🎓 Junior Undergrad student at Netaji Subhas University of Technology.
+ - ✨ A front-end developer
+ - :smile: Coding enthusiast
+ - 🌻 I’m currently learning React
+ - 📚 When I am not coding, I am reading fiction books
+ - ✉️ How to reach me: anand26shweta@gmail.com
 
-#### 🗓 My GitHub Card
+<!-- #### 🗓 My GitHub Card
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=shweta200126&show_icons=true&theme=default&bg_color=ffffff00&text_color=808080&hide_border=true" height=200>
-<hr>
+<hr> -->
 
-<h2 align="center">Connect with Me !! 🤝</h2> 
+## :hammer_and_wrench: Languages and Tools:
+
+### :clipboard: Languages:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+### :books: Frameworks:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### :hammer: Tools:
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases: 
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### :art: Design:
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- <h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
 <!-- <a href="https://github.com/Shweta200126" target="_blank">
@@ -57,5 +61,4 @@ Here are some ideas to get you started:
 <a href="mailto:anand26shweta@gmail.com">
  <img alt="Shweta R. Anand | Gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width=40 height=30 target="_blank" />
 </a>
-</p>
-
+</p> -->
