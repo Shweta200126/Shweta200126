@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with Me !! 🤝</h2> 
 
 <p align="center">
-<a href="https://github.com/Shweta200126" target="_blank">
+<!-- <a href="https://github.com/Shweta200126" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Shweta R. Anand | GitHub" style="margin-bottom: 5px;" width=40 height=30 target="_blank" />
-</a>
+</a> -->
  &nbsp
 <a href="https://www.linkedin.com/in/shweta-ranjan-anand-a3246b203/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Shweta R. Anand | linkedin" height=30 target="_blank" />
