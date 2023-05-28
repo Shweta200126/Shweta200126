@@ -5,7 +5,6 @@ I am a Front-end developer and designer who focuses on creating beautiful and fu
  - 🎓 Junior Undergrad student at Netaji Subhas University of Technology.
  - ✨ A front-end developer
  - :smile: Coding enthusiast
- - 🌻 I’m currently learning React
  - 📚 When I am not coding, I am reading fiction books
  - ✉️ How to reach me: anand26shweta@gmail.com
 
