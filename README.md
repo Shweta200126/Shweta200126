@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me:
 I am a Front-end developer and designer who focuses on creating beautiful and functional user experiences.
- - 🎓 Junior Undergrad student at Netaji Subhas University of Technology.
+ - 🎓 Senior Undergrad student at Netaji Subhas University of Technology.
  - ✨ A front-end developer
  - :smile: Coding enthusiast
  - 📚 When I am not coding, I am reading fiction books
