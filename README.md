@@ -1,9 +1,6 @@
 <h2 align="center">Hello there, Shweta here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></h2>
 
 ### :woman_technologist: About Me:
-I am a Front-end developer and designer who focuses on creating beautiful and functional user experiences.
- - 🎓 Senior Undergrad student at Netaji Subhas University of Technology.
- - ✨ A front-end developer
  - :smile: Coding enthusiast
  - 📚 When I am not coding, I am reading fiction books
  - ✉️ How to reach me: anand26shweta@gmail.com
@@ -17,12 +14,12 @@ I am a Front-end developer and designer who focuses on creating beautiful and fu
 
 ### :clipboard: Languages:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+--![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-### :books: Frameworks:
+<!-- ### :books: Frameworks:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -32,7 +29,7 @@ I am a Front-end developer and designer who focuses on creating beautiful and fu
 ### :hammer: Tools:
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
 ### Databases: 
 
